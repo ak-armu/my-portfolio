@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 80px;
 }
 .half-section{
     width: 50%;
