@@ -37,17 +37,23 @@ h1{
 }
 .last-half-section{
     width: 40%;
+    height: 250px;
     padding-left: 15px;
+    padding-right: 2git0px;
     margin-right: 5%;
     margin-left: 5%;
     border-radius: 10px;
     box-shadow: 15px 15px 50px gray;
+    text-align: justify;
 }
 .full-stack{
     border-left: 7px solid blue;
 }
 .baby-web{
     border-left: 7px solid orange;
+}
+.orange{
+    color: orange;
 }
 footer{
     text-align: center;
